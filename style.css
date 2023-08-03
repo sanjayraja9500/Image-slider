@@ -29,7 +29,11 @@ body::before {
     z-index: -1;
 
 }
-
+h1{
+    color: #fff;
+    margin: 1rem;
+    letter-spacing: 5px;
+}
 .slider-container {
     position: relative;
     overflow: hidden;
